@@ -1,16 +1,16 @@
-# FIFA Face Generation with GANs and DCGANs
+# FIF4 Face Generation with GANs and DCGANs
 
 ## English
 
 ### Project Overview
 
-This project explores the generation of synthetic FIFA player faces using Generative Adversarial Networks (GANs). Two approaches were implemented and compared: a traditional GAN and a Deep Convolutional GAN (DCGAN).
+This project explores the generation of synthetic FIF4 player faces using Generative Adversarial Networks (GANs). Two approaches were implemented and compared: a traditional GAN and a Deep Convolutional GAN (DCGAN).
 
 The goal was to generate realistic and diverse face images while evaluating training performance, image quality, and training stability.
 
 ### Dataset
 
-The project uses a dataset of FIFA player face images, resized to **128 × 128 pixels** and normalized before training.
+The project uses a dataset of FIF4 player face images, resized to **128 × 128 pixels** and normalized before training.
 
 ### Models
 
@@ -164,13 +164,13 @@ Future work could explore techniques such as Exponential Moving Average (EMA), d
 
 ### Descripción del proyecto
 
-Este proyecto explora la generación de rostros sintéticos de jugadores de FIFA mediante Redes Generativas Antagónicas (GAN). Se implementaron y compararon dos enfoques: una GAN tradicional y una Deep Convolutional GAN (DCGAN).
+Este proyecto explora la generación de rostros sintéticos de jugadores de FIF4 mediante Redes Generativas Antagónicas (GAN). Se implementaron y compararon dos enfoques: una GAN tradicional y una Deep Convolutional GAN (DCGAN).
 
 El objetivo fue generar rostros realistas y variados, evaluando el rendimiento del entrenamiento, la calidad de las imágenes y la estabilidad del modelo.
 
 ### Dataset
 
-Se utilizó un conjunto de imágenes de rostros de jugadores de FIFA, redimensionadas a **128 × 128 píxeles** y normalizadas antes del entrenamiento.
+Se utilizó un conjunto de imágenes de rostros de jugadores de FIF4, redimensionadas a **128 × 128 píxeles** y normalizadas antes del entrenamiento.
 
 ### Modelos
 
